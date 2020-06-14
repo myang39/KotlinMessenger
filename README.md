@@ -1,2 +1,2 @@
 # KotlinMessenger
-A messenger clone to practice my Android skill with Kotlin
+A messenger clone to practice my Android skill with Kotlin and Firebase
